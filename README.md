@@ -8,6 +8,6 @@ Each of the above has preconditions that the customer should follow.
 4. Run the project via netbeans.
 unit tests.
 1. Ensure that you have JUnit plugin installed. If not read https://subscription.packtpub.com/book/application_development/9781782167761/10/ch10lvl1sec89/installing-junit-support-into-netbeans on how to install junit plugin.
-2. Install jacoco plugin via netbeans.
-3. Run the tests.
+
+. Run the tests.
 
